@@ -28,10 +28,20 @@ A tisztaszoftver oldalán találni fogsz egy email címet mely "m365.edu.hu"-ra 
 Nyisd meg az Office alkalmazást a start menün keresztül (a kék négyzetek a tálcán a start menü gomb :D).
 Jobb felül egy profilképedet vagy a monogramodat fogod látni, ha rákattintasz felhoz egy menüt melybe megtalálod a kijelentkezés opciót.
 
+![tisztaszoftver](https://github.com/baludevy/tisztaszoftver-hunyadi/blob/main/logout.png)
+
 ## Bejelentkezés a Tisztaszoftver-ben igényelt Microsoft fiókba
 Jelentkezz vissza a "Munkahelyi vagy iskolai fiók" opcióban a régebben kimásolt Tisztaszoftver fiókoddal.
+
+![tisztaszoftver](https://github.com/baludevy/tisztaszoftver-hunyadi/blob/main/login_to_office.png)
+
 Át fog irányítani egy bejelentkezés oldalra amin a "Kréta azonosítóval" opcióban a kréta felhasználoddal tudsz bejelentkezni.
+
+![tisztaszoftver](https://github.com/baludevy/tisztaszoftver-hunyadi/blob/main/kifu_login.png)
+
 Ha esetleg feljön egy ablak a "Maradjon belentkezve az összes alkalmazásba" címmel válaszd a "Nem, bejelentkezés csak ebbe az alkalmazásba" opciót.
+
+![tisztaszoftver](https://github.com/baludevy/tisztaszoftver-hunyadi/blob/main/dont_login_to_all.png)
 
 # További segítségkérés
 
