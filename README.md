@@ -37,10 +37,6 @@ Jelentkezz vissza a "Munkahelyi vagy iskolai fiók" opcióban a régebben kimás
 
 Át fog irányítani egy bejelentkezés oldalra amin a "Kréta azonosítóval" opcióban a kréta felhasználoddal tudsz bejelentkezni.
 
-![tisztaszoftver](https://github.com/baludevy/tisztaszoftver-hunyadi/blob/main/kifu_login.png)
-
-Ha esetleg feljön egy ablak a "Maradjon belentkezve az összes alkalmazásba" címmel válaszd a "Nem, bejelentkezés csak ebbe az alkalmazásba" opciót.
-
 ![tisztaszoftver](https://github.com/baludevy/tisztaszoftver-hunyadi/blob/main/dont_login_to_all.png)
 
 # További segítségkérés
