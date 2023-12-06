@@ -22,6 +22,8 @@ A laptopon alapból megtalálható az Office alkalmazás és tagalkalmazásai.
 Először igényelni kell a [Tisztaszoftver](https://tisztaszoftver.hu/igenyles/szemelyes) oldalárol az Office licencet.
 A tisztaszoftver oldalán találni fogsz egy email címet mely "m365.edu.hu"-ra végződik, ezt másold ki mert később kellesz.
 
+![tisztaszoftver](https://github.com/baludevy/tisztaszoftver-hunyadi/blob/main/tisztaszoftver.png)
+
 ## Kijelentkezés a személyes fiókodból az Officeban
 Nyisd meg az Office alkalmazást a start menün keresztül (a kék négyzetek a tálcán a start menü gomb :D).
 Jobb felül egy profilképedet vagy a monogramodat fogod látni, ha rákattintasz felhoz egy menüt melybe megtalálod a kijelentkezés opciót.
