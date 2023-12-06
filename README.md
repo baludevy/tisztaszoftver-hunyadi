@@ -13,6 +13,8 @@ A szükséges fiókokat informatika órán már elkészítettük.
 A laptop beállítása során, a felület kérni fogja, hogy jelentkezzel be egy Microsoft fiókkal.
 A személyes opció választása után, az informatika órán elkészített fiókkal kell bejelentkezni.
 
+![login](https://github.com/baludevy/tisztaszoftver-hunyadi/blob/main/login.png)
+
 # Office aktiválása a Tisztaszoftver licenccel
 
 ## Licenc beszerzése
